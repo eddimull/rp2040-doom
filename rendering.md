@@ -255,7 +255,6 @@ these are the pertinent steps:
 playlist=2OIo32F2eKY&loop=1" title="3D Rendering Video" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-</svg>
 
 # Generating the rest of the display
 
